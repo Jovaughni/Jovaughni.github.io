@@ -1,0 +1,9 @@
+<style>
+h1 {color:rgb(255, 0, 0)}
+td {border: 1px solid blue; 
+padding: 10px}
+table {border-collapse:collapse;}
+thead {font-weight: bold;}
+thead td {text-align: center;}
+h3 {text-align: center;}
+</style>
